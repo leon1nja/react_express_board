@@ -1,0 +1,21 @@
+.requestlist {
+    height: 1100px;
+    width: 50%;
+    padding: 20px;
+    margin-top: 30px;
+    
+    .datatableTitle{
+      width: 100%;
+      font-size: 24px;
+      color: gray;
+      margin-top: 40px;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;      
+    }
+    .matched{
+      background-color: gray;
+    }
+  }
+  

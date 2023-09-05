@@ -1,0 +1,29 @@
+.settingtable {
+    display: flex;
+    .con{
+        height: 1100px;
+        width:350px;
+        padding: 20px;
+
+        .datatableTitle{
+          width: 100%;
+          font-size: 20px;
+          color: gray;
+          margin-bottom: 10px;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+      
+          
+        }
+    }
+  
+    
+  }
+  .flexInputs{
+    display: flex;
+    .flexes{
+      display: flex;
+      margin: 40px;
+    }
+  }

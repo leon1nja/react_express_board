@@ -1,0 +1,161 @@
+.datatable {
+  // height: 1100px;
+  // width: 100%;
+  padding: 20px;
+  // flex: 1;
+
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+        box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+        padding: 10px;
+        margin: 20px;
+        border-radius: 15px;
+        // display: flex;
+  .utahContainer {
+    display: flex;
+    justify-content: flex-start;
+
+    .trailerContainer{
+      width: 742px;
+      border-radius: 15px;
+      padding: 0px 10px 10px 10px;
+      // -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+      //   box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+      //   padding: 10px;
+      //   margin: 20px;
+      //   border-radius: 15px;
+    
+      .addLineButton{
+        width: 155px;
+      }
+    
+    
+      .actiontableTitle {
+        padding-top: 30px;
+        width: 100%;
+        font-size: 24px;
+        color: gray;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .helpertext {
+          display: flex;
+          flex-direction: row;
+        }
+        .trailersTitle{
+          width: 250px;
+        }
+        
+     }
+    }
+
+    .utahTrucktable {
+      width: auto;
+      margin-top: 5px;
+      // -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+      //   box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+      //   padding: 10px;
+      //   margin: 20px;
+      //   border-radius: 15px;
+    }
+  }
+
+  .coloradoContainer {
+    display: flex;
+    justify-content: flex-start;
+    // -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    //     box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    //     padding: 10px;
+    //     margin: 20px;
+    //     border-radius: 15px;
+
+    .trailerContainer{
+      width: 747px;
+      border-radius: 15px;
+      padding: 0px 10px 10px 10px;
+      
+    
+      .addLineButton{
+        width: 155px;
+      }
+    
+    
+      .actiontableTitle {
+        padding-top: 30px;
+        width: 100%;
+        font-size: 24px;
+        color: gray;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .helpertext {
+          display: flex;
+          flex-direction: row;
+        }
+        .trailersTitle{
+          width: 240px;
+        }
+        
+     }
+    }
+
+    .coloradoTrucktable {
+      
+      display: flex;
+      flex-direction: column;
+      // width: 58%;
+      height: 30%;
+
+      .actiontableTitle{
+        width: 100%;
+        font-size: 24px;
+        color: gray;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .formula {
+          display: flex;
+          margin-right: 100px;
+        }
+            
+      }
+    }
+  }
+  
+  .datatableTitle{
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .utahCalendar {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    padding: 5px;
+    width: 50%;
+    height: 30%;
+      .actiontableTitle{
+        width: 100%;
+        font-size: 24px;
+        color: gray;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .truckCounter {
+        margin-left: 65px;
+        color: rgb(231, 29, 73);
+        
+      }
+      
+ }
+}

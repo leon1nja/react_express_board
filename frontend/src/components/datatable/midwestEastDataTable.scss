@@ -1,0 +1,14 @@
+.midwestField {
+  padding-top: 50px;
+  width: 1920px;
+  box-shadow: 2px 4px 10px 1px rgb(201 201 201 / 47%);
+  display: flex;
+
+  .trucktable{
+    width: 50%;
+    .calendarField{
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  }
+}

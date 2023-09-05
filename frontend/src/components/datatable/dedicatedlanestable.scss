@@ -1,0 +1,164 @@
+.flex{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  // margin-top: 30px;
+  .flex1{
+    // flex: 1;
+    width: 743px;
+    margin-right: 10px;
+
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+        box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+        padding: 15px;
+        margin: 10px;
+        border-radius: 15px;
+  }
+  .loadBoardRightField{
+    width: 55%;
+    // margin-right: 10px;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+        box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+        padding: 15px;
+        margin: 15px;
+        border-radius: 15px;
+  }
+}
+.tables{
+  margin: auto;
+  width: 100%;
+}
+.actiontable2 {
+display: flex;
+flex-direction: column;
+padding-top:  20px;
+width: 100%;
+  // // padding: 20px;
+  // padding-top: 0px !important;
+  // border-radius: 15px;
+  .actiontableTitle{
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+  }
+
+}
+
+.actiontableTitleIllinois{
+  font-size: 24px;
+  color: white;
+  margin: auto;
+  background-color: #266cc8;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 7px;
+width: 98%;
+
+}
+.illinois2{
+  display: flex;
+  flex-direction: column;
+
+// justify-content: center !important;
+  align-items: center !important;
+  width: 100%;
+}
+
+.illinois{
+  display: flex;
+
+  .actiontable1{
+  width: 100%;
+  border-radius: 15px;
+  padding: 0px 10px 10px 10px;
+
+  .addLineButton{
+    width: 125px;
+  }
+
+
+  .actiontableTitle{
+    padding-top: 30px;
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .helpertext {
+      display: flex;
+      flex-direction: row;
+    }
+    .trailersTitle{
+      width: 320px;
+    }
+    
+  }
+
+  
+
+  }
+  // .actiontable2{
+  //   width:350px;
+  // padding: 20px;
+  // border-radius: 15px;
+  // padding-top: 0px;
+
+  // .actiontableTitle{
+  //   width: 100%;
+  //   font-size: 24px;
+  //   color: gray;
+  //   margin-bottom: 10px;
+  //   display: flex;
+  //   align-items: center;
+  //   justify-content: space-between;
+
+    
+  // }
+
+  // }
+}
+.actiontableTitleColorado{
+  font-size: 24px;
+  color: black;
+  margin: auto;
+  background-color: #DAD2E8;
+  margin-top: 100px;
+  text-align: center;
+  width: 98%;
+  margin-bottom: 20px;
+  padding: 7px;
+
+}
+.actiontableTitleMidwest{
+  font-size: 24px;
+  color: white;
+  margin: auto;
+  background-color: #11ba47fb;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 7px;
+width: 98%;
+}
+.actiontable3{
+  width: 100%;
+  margin: auto;
+  // margin-top: 30px;
+}
+.midwestTitle{
+display: flex !important;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 5px;
+}

@@ -1,0 +1,32 @@
+.historylist {
+    // height: 1100px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 50px;
+    
+    .datatableTitle{
+      width: 100%;
+      font-size: 24px;
+      color: gray;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  
+      
+    }
+    .cellWithImg {
+      display: flex;
+      align-items: center;
+  
+      .cellImg {
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-right: 20px;
+      }
+    }
+  
+  }
+  

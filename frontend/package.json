@@ -1,0 +1,72 @@
+{
+  "name": "youdjin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-scheduler": "^3.0.4",
+    "@devexpress/dx-react-scheduler-material-ui": "^3.0.4",
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.4.4",
+    "@mui/lab": "^5.0.0-alpha.91",
+    "@mui/material": "^5.9.1",
+    "@mui/x-data-grid": "^5.5.1",
+    "@syncfusion/ej2-react-calendars": "^20.2.43",
+    "@syncfusion/ej2-react-inputs": "^20.2.44",
+    "@syncfusion/ej2-react-schedule": "^20.2.43",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.3",
+    "@testing-library/user-event": "^13.5.0",
+    "autosuggest-highlight": "^3.3.4",
+    "axios": "^0.27.2",
+    "devextreme-react": "^22.1.4",
+    "formik": "^2.2.9",
+    "jwt-decode": "^3.1.2",
+    "ka-table": "^7.5.0",
+    "material-ui-chip-input": "^1.1.0",
+    "moment": "^2.29.4",
+    "multiselect-react-dropdown": "^2.0.25",
+    "react": "^17.0.2",
+    "react-autosuggest": "^10.1.0",
+    "react-circular-progressbar": "^2.0.4",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.2",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "5.0.0",
+    "react-toastify": "^9.0.7",
+    "recharts": "^2.1.9",
+    "redux": "^4.2.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
+    "sass": "^1.56.0",
+    "socket.io-client": "^4.5.1",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
